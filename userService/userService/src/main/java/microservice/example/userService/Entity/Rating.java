@@ -10,5 +10,4 @@ public class Rating {
     private int rating;
     private String remark;
     private String feedback;
-
 }

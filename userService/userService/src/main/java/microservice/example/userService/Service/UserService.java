@@ -1,7 +1,7 @@
 package microservice.example.userService.Service;
 
 import microservice.example.userService.Entity.User;
-import org.springframework.stereotype.Service;
+//import org.springframework.stereotype.Service;
 
 import java.util.List;
 
